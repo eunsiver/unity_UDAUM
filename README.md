@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/76419984/203123370-55e1b0f5-fae0-4f01-
 - 채팅 기능
 - 캐릭터 선택, 움직임
 - 메모장
-
+- 건물 내부로 들어가 작품 감상
 
 ## 제작 기간
 - 8개월
