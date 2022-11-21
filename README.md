@@ -6,7 +6,9 @@ https://user-images.githubusercontent.com/76419984/203122433-98ae41eb-4ee1-4327-
 
 
 ## 할로윈 메타버스 
-https://user-images.githubusercontent.com/76419984/203122444-e7cef647-552f-4da5-8bb5-8a6d04ef7890.mp4
+https://user-images.githubusercontent.com/76419984/203123370-55e1b0f5-fae0-4f01-a4a3-11b6ddef6b42.mp4
+
+
 
 ## 제작 기간
 - 8개월
