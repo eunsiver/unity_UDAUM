@@ -1,5 +1,6 @@
 # unity_UDAUM
 ## MetaBus
+### 용량이 너무 커서 올라가지 않음
 
 ## 기본 메타버스
 https://user-images.githubusercontent.com/76419984/203122433-98ae41eb-4ee1-4327-b6fc-1d58743b3399.mp4
