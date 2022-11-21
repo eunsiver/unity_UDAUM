@@ -9,6 +9,11 @@ https://user-images.githubusercontent.com/76419984/203122433-98ae41eb-4ee1-4327-
 ## 할로윈 메타버스 
 https://user-images.githubusercontent.com/76419984/203123370-55e1b0f5-fae0-4f01-a4a3-11b6ddef6b42.mp4
 
+## 기능
+- 동영상 강의 들을 수 있는 공간
+- 채팅 기능
+- 캐릭터 선택, 움직임
+- 메모장
 
 
 ## 제작 기간
